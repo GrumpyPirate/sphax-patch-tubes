@@ -1,0 +1,9 @@
+Previews/
+Original/
+node_modules/
+
+!src/**
+!dist/**
+
+.DS_Store
+*.zip
