@@ -1,8 +1,16 @@
+# Ignore these
+Assets/
 Previews/
 Original/
-node_modules/
 
-!src/**
-!dist/**
+# ... but always include these
+!Full\ Patch/source-designs/**
+!Full\ Patch/size-packs/**
 
+# OS
+.db
 .DS_Store
+
+# Node
+node_modules/
+npm-debug.log
