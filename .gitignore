@@ -4,8 +4,8 @@ Previews/
 Original/
 
 # ... but always include these
-!Full\ Patch/source-designs/**
-!Full\ Patch/size-packs/**
+!source-designs/**
+!size-packs/**
 
 # OS
 .db
