@@ -1,11 +1,11 @@
 {
-  "name": "sphaxify",
-  "version": "1.0.4",
+  "name": "sphax-patch-tubes",
+  "version": "1.0.0",
   "author": "Edward Cobbold <edward.cobbold@gmail.com>",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GrumpyPirate/Sphaxify.git"
+    "url": "https://github.com/GrumpyPirate/sphax-patch-tubes.git"
   },
   "license": "MIT",
   "scripts": {
